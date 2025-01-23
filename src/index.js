@@ -6,7 +6,7 @@ module.exports = {
     texturesPath: path.resolve(__dirname, '../textures'),
 
     copyStylesAndTextures: function (outputDir) {
-        const fs = require('fs-extra'); // Utilise fs-extra pour simplifier la copie
+        const fs = require('fs-extra');
         const stylesPath = path.resolve(__dirname, 'templates/predefinedStyles.css');
         const texturesPath = path.resolve(__dirname, '../textures');
         fs.copySync(stylesPath, path.join(outputDir, 'predefinedStyles.css'));
