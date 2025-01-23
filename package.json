@@ -1,0 +1,21 @@
+{
+  "name": "minecraft-background-library",
+  "version": "1.0.0",
+  "description": "A library of predefined CSS classes with textures",
+  "main": "src/index.js",
+  "files": [
+    "src/templates/predefinedStyles.css",
+    "textures/",
+    "src/index.js"
+  ],
+  "scripts": {
+    "build": "echo 'Build step not needed for this library'",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": ["css", "textures", "backgrounds"],
+  "author": "Ton Nom",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  }
+}
