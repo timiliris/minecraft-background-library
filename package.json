@@ -12,10 +12,17 @@
     "build": "echo 'Build step not needed for this library'",
     "test": "echo 'No tests defined'"
   },
-  "keywords": ["css", "textures", "backgrounds"],
+  "keywords": [
+    "css",
+    "textures",
+    "backgrounds"
+  ],
   "author": "Timiliris420 - MrSpinn",
   "license": "MIT",
   "dependencies": {
-    "fs-extra": "^11.1.1"
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1",
+    "path": "^0.12.7",
+    "sharp": "^0.33.5"
   }
 }
