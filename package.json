@@ -1,11 +1,11 @@
 {
-  "name": "minecraft-background-library",
-  "version": "1.0.0",
-  "description": "A library of predefined CSS classes with textures",
+  "name": "minecraft-textures-library",
+  "version": "1.0.5",
+  "description": "A library of predefined CSS classes with minecraft textures",
   "main": "src/index.js",
   "files": [
-    "src/templates/predefinedStyles.css",
-    "textures/",
+    "src/templates/",
+    "src/textures/",
     "src/index.js"
   ],
   "scripts": {
