@@ -1,0 +1,180 @@
+.bg-andesite_casing {
+    background:
+            url('../textures/create/cutted/andesite_casing/andesite_casing_top_right.png') top right no-repeat,
+            url('../textures/create/cutted/andesite_casing/andesite_casing_top_left.png') top left no-repeat,
+            url('../textures/create/cutted/andesite_casing/andesite_casing_bottom_left.png') bottom left no-repeat,
+            url('../textures/create/cutted/andesite_casing/andesite_casing_bottom_right.png') bottom right no-repeat,
+            url('../textures/create/cutted/andesite_casing/andesite_casing_top.png') top left repeat-x,
+            url('../textures/create/cutted/andesite_casing/andesite_casing_bottom.png') bottom left repeat-x,
+            url('../textures/create/cutted/andesite_casing/andesite_casing_right.png') top right repeat-y,
+            url('../textures/create/cutted/andesite_casing/andesite_casing_left.png') top left repeat-y,
+            url('../textures/create/cutted/andesite_casing/andesite_casing_middle.png') top left repeat ;
+    image-rendering: pixelated;
+    background-size: 64px 64px;
+}
+
+.bg-block_connected {
+    background:
+            url('../textures/create/cutted/block_connected/block_connected_bottom_right.png') bottom right no-repeat,
+            url('../textures/create/cutted/block_connected/block_connected_top_left.png') top left no-repeat,
+            url('../textures/create/cutted/block_connected/block_connected_top_right.png') top right no-repeat,
+            url('../textures/create/cutted/block_connected/block_connected_bottom_left.png') bottom left no-repeat,
+            url('../textures/create/cutted/block_connected/block_connected_top.png') top left repeat-x,
+            url('../textures/create/cutted/block_connected/block_connected_left.png') top left repeat-y,
+            url('../textures/create/cutted/block_connected/block_connected_bottom.png') bottom left repeat-x,
+            url('../textures/create/cutted/block_connected/block_connected_right.png') top right repeat-y,
+            url('../textures/create/cutted/block_connected/block_connected_middle.png') top left repeat ;
+    image-rendering: pixelated;
+    background-size: 64px 64px;
+}
+
+.bg-brass_casing {
+    background:
+            url('../textures/create/cutted/brass_casing/brass_casing_top_left.png') top left no-repeat,
+            url('../textures/create/cutted/brass_casing/brass_casing_bottom_right.png') bottom right no-repeat,
+            url('../textures/create/cutted/brass_casing/brass_casing_top_right.png') top right no-repeat,
+            url('../textures/create/cutted/brass_casing/brass_casing_bottom_left.png') bottom left no-repeat,
+            url('../textures/create/cutted/brass_casing/brass_casing_top.png') top left repeat-x,
+            url('../textures/create/cutted/brass_casing/brass_casing_bottom.png') bottom left repeat-x,
+            url('../textures/create/cutted/brass_casing/brass_casing_left.png') top left repeat-y,
+            url('../textures/create/cutted/brass_casing/brass_casing_right.png') top right repeat-y,
+            url('../textures/create/cutted/brass_casing/brass_casing_middle.png') top left repeat ;
+    image-rendering: pixelated;
+    background-size: 64px 64px;
+}
+
+.bg-copper_casing {
+    background:
+            url('../textures/create/cutted/copper_casing/copper_casing_top_left.png') top left no-repeat,
+            url('../textures/create/cutted/copper_casing/copper_casing_top_right.png') top right no-repeat,
+            url('../textures/create/cutted/copper_casing/copper_casing_bottom_right.png') bottom right no-repeat,
+            url('../textures/create/cutted/copper_casing/copper_casing_bottom_left.png') bottom left no-repeat,
+            url('../textures/create/cutted/copper_casing/copper_casing_top.png') top left repeat-x,
+            url('../textures/create/cutted/copper_casing/copper_casing_bottom.png') bottom left repeat-x,
+            url('../textures/create/cutted/copper_casing/copper_casing_left.png') top left repeat-y,
+            url('../textures/create/cutted/copper_casing/copper_casing_right.png') top right repeat-y,
+            url('../textures/create/cutted/copper_casing/copper_casing_middle.png') top left repeat ;
+    image-rendering: pixelated;
+    background-size: 64px 64px;
+}
+
+.bg-linear_chassis_end {
+    background:
+            url('../textures/create/cutted/linear_chassis_end/linear_chassis_end_top_left.png') top left no-repeat,
+            url('../textures/create/cutted/linear_chassis_end/linear_chassis_end_top_right.png') top right no-repeat,
+            url('../textures/create/cutted/linear_chassis_end/linear_chassis_end_bottom_left.png') bottom left no-repeat,
+            url('../textures/create/cutted/linear_chassis_end/linear_chassis_end_bottom_right.png') bottom right no-repeat,
+            url('../textures/create/cutted/linear_chassis_end/linear_chassis_end_top.png') top left repeat-x,
+            url('../textures/create/cutted/linear_chassis_end/linear_chassis_end_bottom.png') bottom left repeat-x,
+            url('../textures/create/cutted/linear_chassis_end/linear_chassis_end_right.png') top right repeat-y,
+            url('../textures/create/cutted/linear_chassis_end/linear_chassis_end_left.png') top left repeat-y,
+            url('../textures/create/cutted/linear_chassis_end/linear_chassis_end_middle.png') top left repeat ;
+    image-rendering: pixelated;
+    background-size: 64px 64px;
+}
+
+.bg-linear_chassis_end_sticky {
+    background:
+            url('../textures/create/cutted/linear_chassis_end_sticky/linear_chassis_end_sticky_top_left.png') top left no-repeat,
+            url('../textures/create/cutted/linear_chassis_end_sticky/linear_chassis_end_sticky_top_right.png') top right no-repeat,
+            url('../textures/create/cutted/linear_chassis_end_sticky/linear_chassis_end_sticky_bottom_right.png') bottom right no-repeat,
+            url('../textures/create/cutted/linear_chassis_end_sticky/linear_chassis_end_sticky_bottom_left.png') bottom left no-repeat,
+            url('../textures/create/cutted/linear_chassis_end_sticky/linear_chassis_end_sticky_top.png') top left repeat-x,
+            url('../textures/create/cutted/linear_chassis_end_sticky/linear_chassis_end_sticky_bottom.png') bottom left repeat-x,
+            url('../textures/create/cutted/linear_chassis_end_sticky/linear_chassis_end_sticky_left.png') top left repeat-y,
+            url('../textures/create/cutted/linear_chassis_end_sticky/linear_chassis_end_sticky_middle.png') top left repeat,
+            url('../textures/create/cutted/linear_chassis_end_sticky/linear_chassis_end_sticky_right.png') top right repeat-y ;
+    image-rendering: pixelated;
+    background-size: 64px 64px;
+}
+
+.bg-linear_chassis_side {
+    background:
+            url('../textures/create/cutted/linear_chassis_side/linear_chassis_side_top_left.png') top left no-repeat,
+            url('../textures/create/cutted/linear_chassis_side/linear_chassis_side_top_right.png') top right no-repeat,
+            url('../textures/create/cutted/linear_chassis_side/linear_chassis_side_bottom_right.png') bottom right no-repeat,
+            url('../textures/create/cutted/linear_chassis_side/linear_chassis_side_bottom_left.png') bottom left no-repeat,
+            url('../textures/create/cutted/linear_chassis_side/linear_chassis_side_top.png') top left repeat-x,
+            url('../textures/create/cutted/linear_chassis_side/linear_chassis_side_bottom.png') bottom left repeat-x,
+            url('../textures/create/cutted/linear_chassis_side/linear_chassis_side_left.png') top left repeat-y,
+            url('../textures/create/cutted/linear_chassis_side/linear_chassis_side_right.png') top right repeat-y,
+            url('../textures/create/cutted/linear_chassis_side/linear_chassis_side_middle.png') top left repeat ;
+    image-rendering: pixelated;
+    background-size: 64px 64px;
+}
+
+.bg-railway_casing {
+    background:
+            url('../textures/create/cutted/railway_casing/railway_casing_top_left.png') top left no-repeat,
+            url('../textures/create/cutted/railway_casing/railway_casing_bottom_right.png') bottom right no-repeat,
+            url('../textures/create/cutted/railway_casing/railway_casing_top_right.png') top right no-repeat,
+            url('../textures/create/cutted/railway_casing/railway_casing_bottom_left.png') bottom left no-repeat,
+            url('../textures/create/cutted/railway_casing/railway_casing_top.png') top left repeat-x,
+            url('../textures/create/cutted/railway_casing/railway_casing_left.png') top left repeat-y,
+            url('../textures/create/cutted/railway_casing/railway_casing_bottom.png') bottom left repeat-x,
+            url('../textures/create/cutted/railway_casing/railway_casing_right.png') top right repeat-y,
+            url('../textures/create/cutted/railway_casing/railway_casing_middle.png') top left repeat ;
+    image-rendering: pixelated;
+    background-size: 64px 64px;
+}
+
+.bg-railway_casing_side {
+    background:
+            url('../textures/create/cutted/railway_casing_side/railway_casing_side_top_left.png') top left no-repeat,
+            url('../textures/create/cutted/railway_casing_side/railway_casing_side_bottom_right.png') bottom right no-repeat,
+            url('../textures/create/cutted/railway_casing_side/railway_casing_side_top_right.png') top right no-repeat,
+            url('../textures/create/cutted/railway_casing_side/railway_casing_side_bottom_left.png') bottom left no-repeat,
+            url('../textures/create/cutted/railway_casing_side/railway_casing_side_top.png') top left repeat-x,
+            url('../textures/create/cutted/railway_casing_side/railway_casing_side_bottom.png') bottom left repeat-x,
+            url('../textures/create/cutted/railway_casing_side/railway_casing_side_left.png') top left repeat-y,
+            url('../textures/create/cutted/railway_casing_side/railway_casing_side_right.png') top right repeat-y,
+            url('../textures/create/cutted/railway_casing_side/railway_casing_side_middle.png') top left repeat ;
+    image-rendering: pixelated;
+    background-size: 64px 64px;
+}
+
+.bg-refined_radiance_casing {
+    background:
+            url('../textures/create/cutted/refined_radiance_casing/refined_radiance_casing_top_left.png') top left no-repeat,
+            url('../textures/create/cutted/refined_radiance_casing/refined_radiance_casing_top_right.png') top right no-repeat,
+            url('../textures/create/cutted/refined_radiance_casing/refined_radiance_casing_bottom_right.png') bottom right no-repeat,
+            url('../textures/create/cutted/refined_radiance_casing/refined_radiance_casing_bottom_left.png') bottom left no-repeat,
+            url('../textures/create/cutted/refined_radiance_casing/refined_radiance_casing_top.png') top left repeat-x,
+            url('../textures/create/cutted/refined_radiance_casing/refined_radiance_casing_bottom.png') bottom left repeat-x,
+            url('../textures/create/cutted/refined_radiance_casing/refined_radiance_casing_left.png') top left repeat-y,
+            url('../textures/create/cutted/refined_radiance_casing/refined_radiance_casing_right.png') top right repeat-y,
+            url('../textures/create/cutted/refined_radiance_casing/refined_radiance_casing_middle.png') top left repeat ;
+    image-rendering: pixelated;
+    background-size: 64px 64px;
+}
+
+.bg-secondary_linear_chassis_side {
+    background:
+            url('../textures/create/cutted/secondary_linear_chassis_side/secondary_linear_chassis_side_top_left.png') top left no-repeat,
+            url('../textures/create/cutted/secondary_linear_chassis_side/secondary_linear_chassis_side_top_right.png') top right no-repeat,
+            url('../textures/create/cutted/secondary_linear_chassis_side/secondary_linear_chassis_side_bottom_right.png') bottom right no-repeat,
+            url('../textures/create/cutted/secondary_linear_chassis_side/secondary_linear_chassis_side_bottom_left.png') bottom left no-repeat,
+            url('../textures/create/cutted/secondary_linear_chassis_side/secondary_linear_chassis_side_top.png') top left repeat-x,
+            url('../textures/create/cutted/secondary_linear_chassis_side/secondary_linear_chassis_side_bottom.png') bottom left repeat-x,
+            url('../textures/create/cutted/secondary_linear_chassis_side/secondary_linear_chassis_side_left.png') top left repeat-y,
+            url('../textures/create/cutted/secondary_linear_chassis_side/secondary_linear_chassis_side_right.png') top right repeat-y,
+            url('../textures/create/cutted/secondary_linear_chassis_side/secondary_linear_chassis_side_middle.png') top left repeat ;
+    image-rendering: pixelated;
+    background-size: 64px 64px;
+}
+
+.bg-shadow_steel_casing {
+    background:
+            url('../textures/create/cutted/shadow_steel_casing/shadow_steel_casing_top_right.png') top right no-repeat,
+            url('../textures/create/cutted/shadow_steel_casing/shadow_steel_casing_top_left.png') top left no-repeat,
+            url('../textures/create/cutted/shadow_steel_casing/shadow_steel_casing_bottom_right.png') bottom right no-repeat,
+            url('../textures/create/cutted/shadow_steel_casing/shadow_steel_casing_bottom_left.png') bottom left no-repeat,
+            url('../textures/create/cutted/shadow_steel_casing/shadow_steel_casing_top.png') top left repeat-x,
+            url('../textures/create/cutted/shadow_steel_casing/shadow_steel_casing_left.png') top left repeat-y,
+            url('../textures/create/cutted/shadow_steel_casing/shadow_steel_casing_bottom.png') bottom left repeat-x,
+            url('../textures/create/cutted/shadow_steel_casing/shadow_steel_casing_right.png') top right repeat-y,
+            url('../textures/create/cutted/shadow_steel_casing/shadow_steel_casing_middle.png') top left repeat ;
+    image-rendering: pixelated;
+    background-size: 64px 64px;
+}
+
